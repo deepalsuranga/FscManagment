@@ -5,7 +5,6 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    // this is a comment to chack
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
